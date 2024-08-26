@@ -28,6 +28,9 @@
         <mxCell id="mK7CetRMmwwFLpDrGTnG-11" value="0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mK7CetRMmwwFLpDrGTnG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mK7CetRMmwwFLpDrGTnG-12" target="mK7CetRMmwwFLpDrGTnG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mK7CetRMmwwFLpDrGTnG-12" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="360" y="190" width="150" height="30" as="geometry" />
         </mxCell>
@@ -36,6 +39,18 @@
         </mxCell>
         <mxCell id="mK7CetRMmwwFLpDrGTnG-14" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="360" y="250" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK7CetRMmwwFLpDrGTnG-16" value="dictEntry" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="85" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK7CetRMmwwFLpDrGTnG-17" value="key: k1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="610" y="115" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK7CetRMmwwFLpDrGTnG-18" value="val: v1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="610" y="145" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mK7CetRMmwwFLpDrGTnG-19" value="*next: nul" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="610" y="175" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
